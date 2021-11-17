@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vjp-danielAG
+- 👀 I’m interested in videogame design
+- 🌱 I’m currently learning software development
+- 📫 How to reach me (follow the heart of the cards)
